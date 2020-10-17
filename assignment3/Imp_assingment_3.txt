@@ -1,0 +1,4 @@
+G:\Uppsala Docs
+pyenv dir: /mnt/g/Uppsala Docs
+floating IP: 130.238.29.253
+host name according to schema  host-192-168-2-149-ldsa
