@@ -1,4 +1,0 @@
-ssh -i /path/to/yourkey.pem ubuntu@yourfloatingIPnumber
-130.238.29.56
-ssh -i /period4/LDSA/Assignment/Keys/Uvais_Key_Pair.pem ubuntu@130.238.29.56
-https://docs.google.com/document/d/1b1p6nVMcSahO7_dXqkmmIMPQkDlIQuWps1pIyyeBNMU/edit#
